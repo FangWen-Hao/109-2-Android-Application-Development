@@ -39,7 +39,7 @@ Answer these questions
 
 
 **Answer:**
-* `onSaveInstanceState()` is called before the `onCreate()` method.
+* `onSaveInstanceState()` is called before the `onStop()` method.
 
 
 4. Question 4: Which `Activity` lifecycle methods are best to use for saving data before the `Activity` is finished or destroyed? Choose one:
@@ -51,4 +51,4 @@ Answer these questions
 * `onStart()` or `onRestart()`
 
 **Answer:**
-* `onResume()` or `onCreate()`
+* `onPause()` or `onStop()`
