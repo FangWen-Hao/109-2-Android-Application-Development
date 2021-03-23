@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Droid Cafe</string>
+    <string name="action_settings">Settings</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+    <string name="intro_text">Droid Desserts</string>
+    <string name="bbq">A berry nice BBQ.</string>
+    <string name="borgar">A delicious borgar.</string>
+    <string name="cake">Let them eat cake!</string>
+    <string name="bbq_order_message">You ordered a BBQ meal.</string>
+    <string name="borgar_order_message">You ordered a borgar.</string>
+    <string name="cake_order_message">You ordered a cake.</string>
+</resources>
