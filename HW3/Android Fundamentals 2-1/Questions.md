@@ -47,6 +47,7 @@ Answer these questions
 **Answer:**
 * As an `Intent` extra
 
+
 5. Question 5: In the HelloToast app homework, how do you display the current count in the second "Hello" `Activity`? Choose one:
 
 * Get the `Intent` that the `Activity` was launched with.
