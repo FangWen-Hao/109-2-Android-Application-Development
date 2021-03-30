@@ -23,44 +23,43 @@
 16-->C:\Users\Matti Lefin\Documents\GitHub\109-2-Android-Application-Development\HW6\Android Fundamentals 4-3\DroidCafeDate\app\src\main\AndroidManifest.xml:9:9-54
 17        android:supportsRtl="true"
 17-->C:\Users\Matti Lefin\Documents\GitHub\109-2-Android-Application-Development\HW6\Android Fundamentals 4-3\DroidCafeDate\app\src\main\AndroidManifest.xml:10:9-35
-18        android:testOnly="true"
-19        android:theme="@style/AppTheme" >
-19-->C:\Users\Matti Lefin\Documents\GitHub\109-2-Android-Application-Development\HW6\Android Fundamentals 4-3\DroidCafeDate\app\src\main\AndroidManifest.xml:11:9-40
-20        <activity
-20-->C:\Users\Matti Lefin\Documents\GitHub\109-2-Android-Application-Development\HW6\Android Fundamentals 4-3\DroidCafeDate\app\src\main\AndroidManifest.xml:12:9-21:20
-21            android:name="com.example.android.droidcafe.MainActivity"
-21-->C:\Users\Matti Lefin\Documents\GitHub\109-2-Android-Application-Development\HW6\Android Fundamentals 4-3\DroidCafeDate\app\src\main\AndroidManifest.xml:13:13-41
-22            android:label="@string/app_name"
-22-->C:\Users\Matti Lefin\Documents\GitHub\109-2-Android-Application-Development\HW6\Android Fundamentals 4-3\DroidCafeDate\app\src\main\AndroidManifest.xml:14:13-45
-23            android:theme="@style/AppTheme.NoActionBar" >
-23-->C:\Users\Matti Lefin\Documents\GitHub\109-2-Android-Application-Development\HW6\Android Fundamentals 4-3\DroidCafeDate\app\src\main\AndroidManifest.xml:15:13-56
-24            <intent-filter>
-24-->C:\Users\Matti Lefin\Documents\GitHub\109-2-Android-Application-Development\HW6\Android Fundamentals 4-3\DroidCafeDate\app\src\main\AndroidManifest.xml:16:13-20:29
-25                <action android:name="android.intent.action.MAIN" />
-25-->C:\Users\Matti Lefin\Documents\GitHub\109-2-Android-Application-Development\HW6\Android Fundamentals 4-3\DroidCafeDate\app\src\main\AndroidManifest.xml:17:17-69
-25-->C:\Users\Matti Lefin\Documents\GitHub\109-2-Android-Application-Development\HW6\Android Fundamentals 4-3\DroidCafeDate\app\src\main\AndroidManifest.xml:17:25-66
-26
-27                <category android:name="android.intent.category.LAUNCHER" />
-27-->C:\Users\Matti Lefin\Documents\GitHub\109-2-Android-Application-Development\HW6\Android Fundamentals 4-3\DroidCafeDate\app\src\main\AndroidManifest.xml:19:17-77
-27-->C:\Users\Matti Lefin\Documents\GitHub\109-2-Android-Application-Development\HW6\Android Fundamentals 4-3\DroidCafeDate\app\src\main\AndroidManifest.xml:19:27-74
-28            </intent-filter>
-29        </activity>
-30        <activity android:name="com.example.android.droidcafe.OrderActivity" />
-30-->C:\Users\Matti Lefin\Documents\GitHub\109-2-Android-Application-Development\HW6\Android Fundamentals 4-3\DroidCafeDate\app\src\main\AndroidManifest.xml:22:9-51
-30-->C:\Users\Matti Lefin\Documents\GitHub\109-2-Android-Application-Development\HW6\Android Fundamentals 4-3\DroidCafeDate\app\src\main\AndroidManifest.xml:22:19-48
-31
-32        <meta-data
-32-->[com.android.support:design:26.1.0] C:\Users\Matti Lefin\.gradle\caches\transforms-2\files-2.1\d1d1709d55c8ab5fa359ce49bd908eb5\design-26.1.0\AndroidManifest.xml:26:9-28:38
-33            android:name="android.support.VERSION"
-33-->[com.android.support:design:26.1.0] C:\Users\Matti Lefin\.gradle\caches\transforms-2\files-2.1\d1d1709d55c8ab5fa359ce49bd908eb5\design-26.1.0\AndroidManifest.xml:27:13-51
-34            android:value="26.1.0" />
-34-->[com.android.support:design:26.1.0] C:\Users\Matti Lefin\.gradle\caches\transforms-2\files-2.1\d1d1709d55c8ab5fa359ce49bd908eb5\design-26.1.0\AndroidManifest.xml:28:13-35
-35        <meta-data
-35-->[android.arch.lifecycle:runtime:1.0.0] C:\Users\Matti Lefin\.gradle\caches\transforms-2\files-2.1\940f5e7524450f821fdfed84e74cdc3a\runtime-1.0.0\AndroidManifest.xml:25:9-27:47
-36            android:name="android.arch.lifecycle.VERSION"
-36-->[android.arch.lifecycle:runtime:1.0.0] C:\Users\Matti Lefin\.gradle\caches\transforms-2\files-2.1\940f5e7524450f821fdfed84e74cdc3a\runtime-1.0.0\AndroidManifest.xml:26:13-58
-37            android:value="27.0.0-SNAPSHOT" />
-37-->[android.arch.lifecycle:runtime:1.0.0] C:\Users\Matti Lefin\.gradle\caches\transforms-2\files-2.1\940f5e7524450f821fdfed84e74cdc3a\runtime-1.0.0\AndroidManifest.xml:27:13-44
-38    </application>
-39
-40</manifest>
+18        android:theme="@style/AppTheme" >
+18-->C:\Users\Matti Lefin\Documents\GitHub\109-2-Android-Application-Development\HW6\Android Fundamentals 4-3\DroidCafeDate\app\src\main\AndroidManifest.xml:11:9-40
+19        <activity
+19-->C:\Users\Matti Lefin\Documents\GitHub\109-2-Android-Application-Development\HW6\Android Fundamentals 4-3\DroidCafeDate\app\src\main\AndroidManifest.xml:12:9-21:20
+20            android:name="com.example.android.droidcafe.MainActivity"
+20-->C:\Users\Matti Lefin\Documents\GitHub\109-2-Android-Application-Development\HW6\Android Fundamentals 4-3\DroidCafeDate\app\src\main\AndroidManifest.xml:13:13-41
+21            android:label="@string/app_name"
+21-->C:\Users\Matti Lefin\Documents\GitHub\109-2-Android-Application-Development\HW6\Android Fundamentals 4-3\DroidCafeDate\app\src\main\AndroidManifest.xml:14:13-45
+22            android:theme="@style/AppTheme.NoActionBar" >
+22-->C:\Users\Matti Lefin\Documents\GitHub\109-2-Android-Application-Development\HW6\Android Fundamentals 4-3\DroidCafeDate\app\src\main\AndroidManifest.xml:15:13-56
+23            <intent-filter>
+23-->C:\Users\Matti Lefin\Documents\GitHub\109-2-Android-Application-Development\HW6\Android Fundamentals 4-3\DroidCafeDate\app\src\main\AndroidManifest.xml:16:13-20:29
+24                <action android:name="android.intent.action.MAIN" />
+24-->C:\Users\Matti Lefin\Documents\GitHub\109-2-Android-Application-Development\HW6\Android Fundamentals 4-3\DroidCafeDate\app\src\main\AndroidManifest.xml:17:17-69
+24-->C:\Users\Matti Lefin\Documents\GitHub\109-2-Android-Application-Development\HW6\Android Fundamentals 4-3\DroidCafeDate\app\src\main\AndroidManifest.xml:17:25-66
+25
+26                <category android:name="android.intent.category.LAUNCHER" />
+26-->C:\Users\Matti Lefin\Documents\GitHub\109-2-Android-Application-Development\HW6\Android Fundamentals 4-3\DroidCafeDate\app\src\main\AndroidManifest.xml:19:17-77
+26-->C:\Users\Matti Lefin\Documents\GitHub\109-2-Android-Application-Development\HW6\Android Fundamentals 4-3\DroidCafeDate\app\src\main\AndroidManifest.xml:19:27-74
+27            </intent-filter>
+28        </activity>
+29        <activity android:name="com.example.android.droidcafe.OrderActivity" />
+29-->C:\Users\Matti Lefin\Documents\GitHub\109-2-Android-Application-Development\HW6\Android Fundamentals 4-3\DroidCafeDate\app\src\main\AndroidManifest.xml:22:9-51
+29-->C:\Users\Matti Lefin\Documents\GitHub\109-2-Android-Application-Development\HW6\Android Fundamentals 4-3\DroidCafeDate\app\src\main\AndroidManifest.xml:22:19-48
+30
+31        <meta-data
+31-->[com.android.support:design:26.1.0] C:\Users\Matti Lefin\.gradle\caches\transforms-2\files-2.1\d1d1709d55c8ab5fa359ce49bd908eb5\design-26.1.0\AndroidManifest.xml:26:9-28:38
+32            android:name="android.support.VERSION"
+32-->[com.android.support:design:26.1.0] C:\Users\Matti Lefin\.gradle\caches\transforms-2\files-2.1\d1d1709d55c8ab5fa359ce49bd908eb5\design-26.1.0\AndroidManifest.xml:27:13-51
+33            android:value="26.1.0" />
+33-->[com.android.support:design:26.1.0] C:\Users\Matti Lefin\.gradle\caches\transforms-2\files-2.1\d1d1709d55c8ab5fa359ce49bd908eb5\design-26.1.0\AndroidManifest.xml:28:13-35
+34        <meta-data
+34-->[android.arch.lifecycle:runtime:1.0.0] C:\Users\Matti Lefin\.gradle\caches\transforms-2\files-2.1\940f5e7524450f821fdfed84e74cdc3a\runtime-1.0.0\AndroidManifest.xml:25:9-27:47
+35            android:name="android.arch.lifecycle.VERSION"
+35-->[android.arch.lifecycle:runtime:1.0.0] C:\Users\Matti Lefin\.gradle\caches\transforms-2\files-2.1\940f5e7524450f821fdfed84e74cdc3a\runtime-1.0.0\AndroidManifest.xml:26:13-58
+36            android:value="27.0.0-SNAPSHOT" />
+36-->[android.arch.lifecycle:runtime:1.0.0] C:\Users\Matti Lefin\.gradle\caches\transforms-2\files-2.1\940f5e7524450f821fdfed84e74cdc3a\runtime-1.0.0\AndroidManifest.xml:27:13-44
+37    </application>
+38
+39</manifest>
