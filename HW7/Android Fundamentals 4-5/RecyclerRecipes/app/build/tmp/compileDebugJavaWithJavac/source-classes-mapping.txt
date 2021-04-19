@@ -1,0 +1,9 @@
+com/example/recyclerrecipes/BuildConfig.java
+ com.example.recyclerrecipes.BuildConfig
+com/example/recyclerrecipes/MainActivity.java
+ com.example.recyclerrecipes.MainActivity
+com/example/recyclerrecipes/ListAdapter.java
+ com.example.recyclerrecipes.ListAdapter
+ com.example.recyclerrecipes.ListAdapter$RecipeViewHolder
+com/example/recyclerrecipes/RecipeMethod.java
+ com.example.recyclerrecipes.RecipeMethod

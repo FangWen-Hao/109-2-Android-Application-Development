@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.coordinatorlayout.widget.CoordinatorLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    app:layout_behavior="@string/appbar_scrolling_view_behavior"
+    tools:context=".MainActivity"
+    tools:layout_editor_absoluteY="81dp"
+    tools:showIn="@layout/activity_main">
+
+    <androidx.gridlayout.widget.GridLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginEnd="8dp"
+        android:layout_marginStart="8dp"
+        android:layout_marginTop="8dp"
+        app:columnCount="3"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:rowCount="2">
+
+        <ImageView
+            android:id="@+id/imageView_donut"
+            android:contentDescription="@string/donut_description"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:onClick="onClickImage"
+            app:layout_columnWeight="0"
+            app:layout_rowWeight="0"
+            app:srcCompat="@drawable/donut_circle" />
+
+        <ImageView
+            android:id="@+id/imageView_froyo"
+            android:contentDescription="@string/froyo_description"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:onClick="onClickImage"
+            app:layout_columnWeight="1"
+            app:layout_rowWeight="0"
+            app:srcCompat="@drawable/froyo_circle" />
+
+        <ImageView
+            android:id="@+id/imageView_ics"
+            android:contentDescription="@string/ice_cream_sandwich_description"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:onClick="onClickImage"
+            app:layout_columnWeight="2"
+            app:layout_rowWeight="0"
+            app:srcCompat="@drawable/icecream_circle" />
+
+        <ImageView
+            android:id="@+id/imageFour"
+            android:contentDescription="@string/four_description"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:onClick="onClickImage"
+            app:layout_columnWeight="0"
+            app:layout_rowWeight="1"
+            app:srcCompat="@drawable/four" />
+
+        <ImageView
+            android:id="@+id/imageFive"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:contentDescription="@string/five_description"
+            android:onClick="onClickImage"
+            app:layout_columnWeight="2"
+            app:layout_rowWeight="1"
+            app:srcCompat="@drawable/five" />
+
+
+    </androidx.gridlayout.widget.GridLayout>
+</androidx.coordinatorlayout.widget.CoordinatorLayout>

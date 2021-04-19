@@ -1,0 +1,136 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.example.usernavigationhw"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="16"
+8-->C:\Users\Matti Lefin\AndroidStudioProjects\UserNavigationHW\app\src\main\AndroidManifest.xml
+9        android:targetSdkVersion="30" />
+9-->C:\Users\Matti Lefin\AndroidStudioProjects\UserNavigationHW\app\src\main\AndroidManifest.xml
+10
+11    <application
+11-->C:\Users\Matti Lefin\AndroidStudioProjects\UserNavigationHW\app\src\main\AndroidManifest.xml:5:5-68:19
+12        android:allowBackup="true"
+12-->C:\Users\Matti Lefin\AndroidStudioProjects\UserNavigationHW\app\src\main\AndroidManifest.xml:6:9-35
+13        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+13-->[androidx.core:core:1.3.1] C:\Users\Matti Lefin\.gradle\caches\transforms-2\files-2.1\8dbd859d1cd89239b42e7382b4fc40d7\core-1.3.1\AndroidManifest.xml:24:18-86
+14        android:debuggable="true"
+15        android:icon="@mipmap/ic_launcher"
+15-->C:\Users\Matti Lefin\AndroidStudioProjects\UserNavigationHW\app\src\main\AndroidManifest.xml:7:9-43
+16        android:label="@string/app_name"
+16-->C:\Users\Matti Lefin\AndroidStudioProjects\UserNavigationHW\app\src\main\AndroidManifest.xml:8:9-41
+17        android:roundIcon="@mipmap/ic_launcher_round"
+17-->C:\Users\Matti Lefin\AndroidStudioProjects\UserNavigationHW\app\src\main\AndroidManifest.xml:9:9-54
+18        android:supportsRtl="true"
+18-->C:\Users\Matti Lefin\AndroidStudioProjects\UserNavigationHW\app\src\main\AndroidManifest.xml:10:9-35
+19        android:theme="@style/Theme.UserNavigationHW" >
+19-->C:\Users\Matti Lefin\AndroidStudioProjects\UserNavigationHW\app\src\main\AndroidManifest.xml:11:9-54
+20        <activity
+20-->C:\Users\Matti Lefin\AndroidStudioProjects\UserNavigationHW\app\src\main\AndroidManifest.xml:12:9-19:20
+21            android:name="com.example.usernavigationhw.ActivityFive"
+21-->C:\Users\Matti Lefin\AndroidStudioProjects\UserNavigationHW\app\src\main\AndroidManifest.xml:13:13-41
+22            android:label="@string/title_activity_five"
+22-->C:\Users\Matti Lefin\AndroidStudioProjects\UserNavigationHW\app\src\main\AndroidManifest.xml:14:13-56
+23            android:theme="@style/Theme.UserNavigationHW.NoActionBar" >
+23-->C:\Users\Matti Lefin\AndroidStudioProjects\UserNavigationHW\app\src\main\AndroidManifest.xml:15:13-70
+24            <meta-data
+24-->C:\Users\Matti Lefin\AndroidStudioProjects\UserNavigationHW\app\src\main\AndroidManifest.xml:16:13-18:49
+25                android:name="android.support.PARENT_ACTIVITY"
+25-->C:\Users\Matti Lefin\AndroidStudioProjects\UserNavigationHW\app\src\main\AndroidManifest.xml:17:17-63
+26                android:value=".MainActivity" />
+26-->C:\Users\Matti Lefin\AndroidStudioProjects\UserNavigationHW\app\src\main\AndroidManifest.xml:18:17-46
+27        </activity>
+28        <activity
+28-->C:\Users\Matti Lefin\AndroidStudioProjects\UserNavigationHW\app\src\main\AndroidManifest.xml:21:9-29:20
+29            android:name="com.example.usernavigationhw.ActivityFour"
+29-->C:\Users\Matti Lefin\AndroidStudioProjects\UserNavigationHW\app\src\main\AndroidManifest.xml:22:13-41
+30            android:label="@string/title_activity_four"
+30-->C:\Users\Matti Lefin\AndroidStudioProjects\UserNavigationHW\app\src\main\AndroidManifest.xml:23:13-56
+31            android:parentActivityName="com.example.usernavigationhw.MainActivity"
+31-->C:\Users\Matti Lefin\AndroidStudioProjects\UserNavigationHW\app\src\main\AndroidManifest.xml:24:13-55
+32            android:theme="@style/Theme.UserNavigationHW.NoActionBar" >
+32-->C:\Users\Matti Lefin\AndroidStudioProjects\UserNavigationHW\app\src\main\AndroidManifest.xml:25:13-70
+33            <meta-data
+33-->C:\Users\Matti Lefin\AndroidStudioProjects\UserNavigationHW\app\src\main\AndroidManifest.xml:16:13-18:49
+34                android:name="android.support.PARENT_ACTIVITY"
+34-->C:\Users\Matti Lefin\AndroidStudioProjects\UserNavigationHW\app\src\main\AndroidManifest.xml:17:17-63
+35                android:value=".MainActivity" />
+35-->C:\Users\Matti Lefin\AndroidStudioProjects\UserNavigationHW\app\src\main\AndroidManifest.xml:18:17-46
+36        </activity>
+37        <activity
+37-->C:\Users\Matti Lefin\AndroidStudioProjects\UserNavigationHW\app\src\main\AndroidManifest.xml:30:9-38:20
+38            android:name="com.example.usernavigationhw.ActivityIceCream"
+38-->C:\Users\Matti Lefin\AndroidStudioProjects\UserNavigationHW\app\src\main\AndroidManifest.xml:31:13-45
+39            android:label="@string/title_activity_ice_cream"
+39-->C:\Users\Matti Lefin\AndroidStudioProjects\UserNavigationHW\app\src\main\AndroidManifest.xml:32:13-61
+40            android:parentActivityName="com.example.usernavigationhw.MainActivity"
+40-->C:\Users\Matti Lefin\AndroidStudioProjects\UserNavigationHW\app\src\main\AndroidManifest.xml:33:13-55
+41            android:theme="@style/Theme.UserNavigationHW.NoActionBar" >
+41-->C:\Users\Matti Lefin\AndroidStudioProjects\UserNavigationHW\app\src\main\AndroidManifest.xml:34:13-70
+42            <meta-data
+42-->C:\Users\Matti Lefin\AndroidStudioProjects\UserNavigationHW\app\src\main\AndroidManifest.xml:16:13-18:49
+43                android:name="android.support.PARENT_ACTIVITY"
+43-->C:\Users\Matti Lefin\AndroidStudioProjects\UserNavigationHW\app\src\main\AndroidManifest.xml:17:17-63
+44                android:value=".MainActivity" />
+44-->C:\Users\Matti Lefin\AndroidStudioProjects\UserNavigationHW\app\src\main\AndroidManifest.xml:18:17-46
+45        </activity>
+46        <activity
+46-->C:\Users\Matti Lefin\AndroidStudioProjects\UserNavigationHW\app\src\main\AndroidManifest.xml:39:9-47:20
+47            android:name="com.example.usernavigationhw.ActivityFroyo"
+47-->C:\Users\Matti Lefin\AndroidStudioProjects\UserNavigationHW\app\src\main\AndroidManifest.xml:40:13-42
+48            android:label="@string/title_activity_froyo"
+48-->C:\Users\Matti Lefin\AndroidStudioProjects\UserNavigationHW\app\src\main\AndroidManifest.xml:41:13-57
+49            android:parentActivityName="com.example.usernavigationhw.MainActivity"
+49-->C:\Users\Matti Lefin\AndroidStudioProjects\UserNavigationHW\app\src\main\AndroidManifest.xml:42:13-55
+50            android:theme="@style/Theme.UserNavigationHW.NoActionBar" >
+50-->C:\Users\Matti Lefin\AndroidStudioProjects\UserNavigationHW\app\src\main\AndroidManifest.xml:43:13-70
+51            <meta-data
+51-->C:\Users\Matti Lefin\AndroidStudioProjects\UserNavigationHW\app\src\main\AndroidManifest.xml:16:13-18:49
+52                android:name="android.support.PARENT_ACTIVITY"
+52-->C:\Users\Matti Lefin\AndroidStudioProjects\UserNavigationHW\app\src\main\AndroidManifest.xml:17:17-63
+53                android:value=".MainActivity" />
+53-->C:\Users\Matti Lefin\AndroidStudioProjects\UserNavigationHW\app\src\main\AndroidManifest.xml:18:17-46
+54        </activity>
+55        <activity
+55-->C:\Users\Matti Lefin\AndroidStudioProjects\UserNavigationHW\app\src\main\AndroidManifest.xml:48:9-56:20
+56            android:name="com.example.usernavigationhw.ActivityDonut"
+56-->C:\Users\Matti Lefin\AndroidStudioProjects\UserNavigationHW\app\src\main\AndroidManifest.xml:49:13-42
+57            android:label="@string/title_activity_donut"
+57-->C:\Users\Matti Lefin\AndroidStudioProjects\UserNavigationHW\app\src\main\AndroidManifest.xml:50:13-57
+58            android:parentActivityName="com.example.usernavigationhw.MainActivity"
+58-->C:\Users\Matti Lefin\AndroidStudioProjects\UserNavigationHW\app\src\main\AndroidManifest.xml:51:13-55
+59            android:theme="@style/Theme.UserNavigationHW.NoActionBar" >
+59-->C:\Users\Matti Lefin\AndroidStudioProjects\UserNavigationHW\app\src\main\AndroidManifest.xml:52:13-70
+60            <meta-data
+60-->C:\Users\Matti Lefin\AndroidStudioProjects\UserNavigationHW\app\src\main\AndroidManifest.xml:16:13-18:49
+61                android:name="android.support.PARENT_ACTIVITY"
+61-->C:\Users\Matti Lefin\AndroidStudioProjects\UserNavigationHW\app\src\main\AndroidManifest.xml:17:17-63
+62                android:value=".MainActivity" />
+62-->C:\Users\Matti Lefin\AndroidStudioProjects\UserNavigationHW\app\src\main\AndroidManifest.xml:18:17-46
+63        </activity>
+64        <activity
+64-->C:\Users\Matti Lefin\AndroidStudioProjects\UserNavigationHW\app\src\main\AndroidManifest.xml:57:9-67:20
+65            android:name="com.example.usernavigationhw.MainActivity"
+65-->C:\Users\Matti Lefin\AndroidStudioProjects\UserNavigationHW\app\src\main\AndroidManifest.xml:58:13-41
+66            android:label="@string/app_name"
+66-->C:\Users\Matti Lefin\AndroidStudioProjects\UserNavigationHW\app\src\main\AndroidManifest.xml:59:13-45
+67            android:launchMode="singleTop"
+67-->C:\Users\Matti Lefin\AndroidStudioProjects\UserNavigationHW\app\src\main\AndroidManifest.xml:60:13-43
+68            android:theme="@style/Theme.UserNavigationHW.NoActionBar" >
+68-->C:\Users\Matti Lefin\AndroidStudioProjects\UserNavigationHW\app\src\main\AndroidManifest.xml:61:13-70
+69            <intent-filter>
+69-->C:\Users\Matti Lefin\AndroidStudioProjects\UserNavigationHW\app\src\main\AndroidManifest.xml:62:13-66:29
+70                <action android:name="android.intent.action.MAIN" />
+70-->C:\Users\Matti Lefin\AndroidStudioProjects\UserNavigationHW\app\src\main\AndroidManifest.xml:63:17-69
+70-->C:\Users\Matti Lefin\AndroidStudioProjects\UserNavigationHW\app\src\main\AndroidManifest.xml:63:25-66
+71
+72                <category android:name="android.intent.category.LAUNCHER" />
+72-->C:\Users\Matti Lefin\AndroidStudioProjects\UserNavigationHW\app\src\main\AndroidManifest.xml:65:17-77
+72-->C:\Users\Matti Lefin\AndroidStudioProjects\UserNavigationHW\app\src\main\AndroidManifest.xml:65:27-74
+73            </intent-filter>
+74        </activity>
+75    </application>
+76
+77</manifest>

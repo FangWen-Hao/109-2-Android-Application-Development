@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.usernavigationhw"
+    android:versionCode="1"
+    android:versionName="1.0" >
+
+    <uses-sdk
+        android:minSdkVersion="16"
+        android:targetSdkVersion="30" />
+
+    <application
+        android:allowBackup="true"
+        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+        android:debuggable="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.UserNavigationHW" >
+        <activity
+            android:name="com.example.usernavigationhw.ActivityFive"
+            android:label="@string/title_activity_five"
+            android:theme="@style/Theme.UserNavigationHW.NoActionBar" >
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value=".MainActivity" />
+        </activity>
+        <activity
+            android:name="com.example.usernavigationhw.ActivityFour"
+            android:label="@string/title_activity_four"
+            android:parentActivityName="com.example.usernavigationhw.MainActivity"
+            android:theme="@style/Theme.UserNavigationHW.NoActionBar" >
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value=".MainActivity" />
+        </activity>
+        <activity
+            android:name="com.example.usernavigationhw.ActivityIceCream"
+            android:label="@string/title_activity_ice_cream"
+            android:parentActivityName="com.example.usernavigationhw.MainActivity"
+            android:theme="@style/Theme.UserNavigationHW.NoActionBar" >
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value=".MainActivity" />
+        </activity>
+        <activity
+            android:name="com.example.usernavigationhw.ActivityFroyo"
+            android:label="@string/title_activity_froyo"
+            android:parentActivityName="com.example.usernavigationhw.MainActivity"
+            android:theme="@style/Theme.UserNavigationHW.NoActionBar" >
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value=".MainActivity" />
+        </activity>
+        <activity
+            android:name="com.example.usernavigationhw.ActivityDonut"
+            android:label="@string/title_activity_donut"
+            android:parentActivityName="com.example.usernavigationhw.MainActivity"
+            android:theme="@style/Theme.UserNavigationHW.NoActionBar" >
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value=".MainActivity" />
+        </activity>
+        <activity
+            android:name="com.example.usernavigationhw.MainActivity"
+            android:label="@string/app_name"
+            android:launchMode="singleTop"
+            android:theme="@style/Theme.UserNavigationHW.NoActionBar" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+    </application>
+
+</manifest>
