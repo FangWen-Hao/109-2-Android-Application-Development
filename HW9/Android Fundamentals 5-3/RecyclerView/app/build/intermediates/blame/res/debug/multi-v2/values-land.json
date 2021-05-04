@@ -1,0 +1,55 @@
+{
+    "logs": [
+        {
+            "outputFile": "C:\\Users\\Matti Lefin\\Documents\\GitHub\\109-2-Android-Application-Development\\HW9\\Android Fundamentals 5-3\\RecyclerView\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-land\\values-land.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\Matti Lefin\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\fd736234894d893e78f71546e2a594e3\\res\\values-land\\values-land.xml",
+                    "from": {
+                        "startLines": "2,3,4,5",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "55,125,189,260",
+                        "endColumns": "69,63,70,67",
+                        "endOffsets": "120,184,255,323"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\Matti Lefin\\Documents\\GitHub\\109-2-Android-Application-Development\\HW9\\Android Fundamentals 5-3\\RecyclerView\\app\\src\\main\\res\\values-land\\integers.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "57",
+                        "endColumns": "35",
+                        "endOffsets": "88"
+                    },
+                    "to": {
+                        "startLines": "6",
+                        "startColumns": "4",
+                        "startOffsets": "328",
+                        "endColumns": "35",
+                        "endOffsets": "359"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\Matti Lefin\\.gradle\\caches\\transforms-1\\files-1.1\\design-26.1.0.aar\\ec2785c05ead0548b856e9c264827310\\res\\values-land\\values-land.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "5",
+                        "endColumns": "12",
+                        "endOffsets": "232"
+                    },
+                    "to": {
+                        "startLines": "7",
+                        "startColumns": "4",
+                        "startOffsets": "364",
+                        "endLines": "10",
+                        "endColumns": "12",
+                        "endOffsets": "541"
+                    }
+                }
+            ]
+        }
+    ]
+}

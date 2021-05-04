@@ -16,8 +16,12 @@
 
 package com.example.android.materialme;
 
+import android.app.Activity;
+import android.app.ActivityOptions;
+import android.os.Build;
 import android.os.Bundle;
 import android.support.v7.app.AppCompatActivity;
+import android.view.animation.Animation;
 import android.widget.ImageView;
 import android.widget.TextView;
 
@@ -51,4 +55,16 @@ public class DetailActivity extends AppCompatActivity {
         Glide.with(this).load(getIntent().getIntExtra("image_resource",0))
                 .into(sportsImage);
     }
+
+    @Override
+    protected void onDestroy() {
+        ImageView sportsImage = findViewById(R.id.sportsImageDetail);
+        if (Build.VERSION.SDK_INT >= Build.VERSION_CODES.LOLLIPOP) {
+            ActivityOptions.makeSceneTransitionAnimation((Activity) mContext, sportsImage, "SportsImage");
+        }
+        super.onDestroy();
+    }
+
 }
+
+
