@@ -1,0 +1,4 @@
+#Tue May 11 17:37:49 CST 2021
+base.0=C\:\\Users\\Matti Lefin\\Documents\\GitHub\\109-2-Android-Application-Development\\HW10\\Android Fundamentals 7-1\\SimpleAsyncTask\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\0
+path.0=classes.dex
+renamed.0=classes.dex

@@ -1,0 +1,150 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\Matti Lefin\Documents\GitHub\109-2-Android-Application-Development\HW10\Android Fundamentals 7-1\SimpleAsyncTask\app\src\main\AndroidManifest.xml:17:1-36:12
+INJECTED from C:\Users\Matti Lefin\Documents\GitHub\109-2-Android-Application-Development\HW10\Android Fundamentals 7-1\SimpleAsyncTask\app\src\main\AndroidManifest.xml:17:1-36:12
+INJECTED from C:\Users\Matti Lefin\Documents\GitHub\109-2-Android-Application-Development\HW10\Android Fundamentals 7-1\SimpleAsyncTask\app\src\main\AndroidManifest.xml:17:1-36:12
+INJECTED from C:\Users\Matti Lefin\Documents\GitHub\109-2-Android-Application-Development\HW10\Android Fundamentals 7-1\SimpleAsyncTask\app\src\main\AndroidManifest.xml:17:1-36:12
+MERGED from [com.android.support:appcompat-v7:26.1.0] C:\Users\Matti Lefin\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.1.0.aar\9ef2250b34335ab1b04f59e2452f01a2\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0] C:\Users\Matti Lefin\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.0.aar\7c043c44e5b9a2b8936ea17fe523bc04\AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] C:\Users\Matti Lefin\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.1.0.aar\8d975079ede964e1d53e0e7282b00ad1\AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-vector-drawable:26.1.0] C:\Users\Matti Lefin\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.1.0.aar\5a818401d2fc816220795d1e8013ff90\AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\Matti Lefin\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\9059e252c40b896f14773d3ced84d366\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\Matti Lefin\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\0e192e6e7161722d79e38f58a59fbc01\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\Matti Lefin\.gradle\caches\transforms-1\files-1.1\support-fragment-26.1.0.aar\be18e5e9b39d7758a4178c981952eaab\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\Matti Lefin\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.1.0.aar\3edb3a82ab39a0e72a3ad40333b9f9ad\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\Matti Lefin\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.1.0.aar\b145e521be88862fd785b2c5b7adaf92\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-compat:26.1.0] C:\Users\Matti Lefin\.gradle\caches\transforms-1\files-1.1\support-compat-26.1.0.aar\f43040a378a1aaf1ce5ea58430f0b7a7\AndroidManifest.xml:17:1-31:12
+MERGED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\Matti Lefin\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\7cc8b49b97cf908fe18d0451502f3c53\AndroidManifest.xml:17:1-30:12
+INJECTED from C:\Users\Matti Lefin\Documents\GitHub\109-2-Android-Application-Development\HW10\Android Fundamentals 7-1\SimpleAsyncTask\app\src\main\AndroidManifest.xml:17:1-36:12
+INJECTED from C:\Users\Matti Lefin\Documents\GitHub\109-2-Android-Application-Development\HW10\Android Fundamentals 7-1\SimpleAsyncTask\app\src\main\AndroidManifest.xml:17:1-36:12
+INJECTED from C:\Users\Matti Lefin\Documents\GitHub\109-2-Android-Application-Development\HW10\Android Fundamentals 7-1\SimpleAsyncTask\app\src\main\AndroidManifest.xml:17:1-36:12
+	package
+		ADDED from C:\Users\Matti Lefin\Documents\GitHub\109-2-Android-Application-Development\HW10\Android Fundamentals 7-1\SimpleAsyncTask\app\src\main\AndroidManifest.xml:18:11-56
+		INJECTED from C:\Users\Matti Lefin\Documents\GitHub\109-2-Android-Application-Development\HW10\Android Fundamentals 7-1\SimpleAsyncTask\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Matti Lefin\Documents\GitHub\109-2-Android-Application-Development\HW10\Android Fundamentals 7-1\SimpleAsyncTask\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\Matti Lefin\Documents\GitHub\109-2-Android-Application-Development\HW10\Android Fundamentals 7-1\SimpleAsyncTask\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Matti Lefin\Documents\GitHub\109-2-Android-Application-Development\HW10\Android Fundamentals 7-1\SimpleAsyncTask\app\src\main\AndroidManifest.xml:17:1-36:12
+		INJECTED from C:\Users\Matti Lefin\Documents\GitHub\109-2-Android-Application-Development\HW10\Android Fundamentals 7-1\SimpleAsyncTask\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from C:\Users\Matti Lefin\Documents\GitHub\109-2-Android-Application-Development\HW10\Android Fundamentals 7-1\SimpleAsyncTask\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Matti Lefin\Documents\GitHub\109-2-Android-Application-Development\HW10\Android Fundamentals 7-1\SimpleAsyncTask\app\src\main\AndroidManifest.xml:17:1-36:12
+		INJECTED from C:\Users\Matti Lefin\Documents\GitHub\109-2-Android-Application-Development\HW10\Android Fundamentals 7-1\SimpleAsyncTask\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\Matti Lefin\Documents\GitHub\109-2-Android-Application-Development\HW10\Android Fundamentals 7-1\SimpleAsyncTask\app\src\main\AndroidManifest.xml:17:11-69
+application
+ADDED from C:\Users\Matti Lefin\Documents\GitHub\109-2-Android-Application-Development\HW10\Android Fundamentals 7-1\SimpleAsyncTask\app\src\main\AndroidManifest.xml:20:5-34:19
+MERGED from [com.android.support:appcompat-v7:26.1.0] C:\Users\Matti Lefin\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.1.0.aar\9ef2250b34335ab1b04f59e2452f01a2\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:appcompat-v7:26.1.0] C:\Users\Matti Lefin\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.1.0.aar\9ef2250b34335ab1b04f59e2452f01a2\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0] C:\Users\Matti Lefin\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.0.aar\7c043c44e5b9a2b8936ea17fe523bc04\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0] C:\Users\Matti Lefin\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.0.aar\7c043c44e5b9a2b8936ea17fe523bc04\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] C:\Users\Matti Lefin\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.1.0.aar\8d975079ede964e1d53e0e7282b00ad1\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] C:\Users\Matti Lefin\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.1.0.aar\8d975079ede964e1d53e0e7282b00ad1\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-vector-drawable:26.1.0] C:\Users\Matti Lefin\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.1.0.aar\5a818401d2fc816220795d1e8013ff90\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-vector-drawable:26.1.0] C:\Users\Matti Lefin\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.1.0.aar\5a818401d2fc816220795d1e8013ff90\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\Matti Lefin\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\9059e252c40b896f14773d3ced84d366\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\Matti Lefin\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\9059e252c40b896f14773d3ced84d366\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\Matti Lefin\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\0e192e6e7161722d79e38f58a59fbc01\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\Matti Lefin\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\0e192e6e7161722d79e38f58a59fbc01\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\Matti Lefin\.gradle\caches\transforms-1\files-1.1\support-fragment-26.1.0.aar\be18e5e9b39d7758a4178c981952eaab\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\Matti Lefin\.gradle\caches\transforms-1\files-1.1\support-fragment-26.1.0.aar\be18e5e9b39d7758a4178c981952eaab\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\Matti Lefin\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.1.0.aar\3edb3a82ab39a0e72a3ad40333b9f9ad\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\Matti Lefin\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.1.0.aar\3edb3a82ab39a0e72a3ad40333b9f9ad\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\Matti Lefin\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.1.0.aar\b145e521be88862fd785b2c5b7adaf92\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\Matti Lefin\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.1.0.aar\b145e521be88862fd785b2c5b7adaf92\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-compat:26.1.0] C:\Users\Matti Lefin\.gradle\caches\transforms-1\files-1.1\support-compat-26.1.0.aar\f43040a378a1aaf1ce5ea58430f0b7a7\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-compat:26.1.0] C:\Users\Matti Lefin\.gradle\caches\transforms-1\files-1.1\support-compat-26.1.0.aar\f43040a378a1aaf1ce5ea58430f0b7a7\AndroidManifest.xml:25:5-29:19
+MERGED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\Matti Lefin\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\7cc8b49b97cf908fe18d0451502f3c53\AndroidManifest.xml:24:5-28:19
+MERGED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\Matti Lefin\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\7cc8b49b97cf908fe18d0451502f3c53\AndroidManifest.xml:24:5-28:19
+	android:supportsRtl
+		ADDED from C:\Users\Matti Lefin\Documents\GitHub\109-2-Android-Application-Development\HW10\Android Fundamentals 7-1\SimpleAsyncTask\app\src\main\AndroidManifest.xml:25:9-35
+	android:label
+		ADDED from C:\Users\Matti Lefin\Documents\GitHub\109-2-Android-Application-Development\HW10\Android Fundamentals 7-1\SimpleAsyncTask\app\src\main\AndroidManifest.xml:23:9-41
+	android:roundIcon
+		ADDED from C:\Users\Matti Lefin\Documents\GitHub\109-2-Android-Application-Development\HW10\Android Fundamentals 7-1\SimpleAsyncTask\app\src\main\AndroidManifest.xml:24:9-54
+	android:icon
+		ADDED from C:\Users\Matti Lefin\Documents\GitHub\109-2-Android-Application-Development\HW10\Android Fundamentals 7-1\SimpleAsyncTask\app\src\main\AndroidManifest.xml:22:9-43
+	android:allowBackup
+		ADDED from C:\Users\Matti Lefin\Documents\GitHub\109-2-Android-Application-Development\HW10\Android Fundamentals 7-1\SimpleAsyncTask\app\src\main\AndroidManifest.xml:21:9-35
+	android:theme
+		ADDED from C:\Users\Matti Lefin\Documents\GitHub\109-2-Android-Application-Development\HW10\Android Fundamentals 7-1\SimpleAsyncTask\app\src\main\AndroidManifest.xml:26:9-40
+activity#com.example.android.simpleasynctask.MainActivity
+ADDED from C:\Users\Matti Lefin\Documents\GitHub\109-2-Android-Application-Development\HW10\Android Fundamentals 7-1\SimpleAsyncTask\app\src\main\AndroidManifest.xml:27:9-33:20
+	android:name
+		ADDED from C:\Users\Matti Lefin\Documents\GitHub\109-2-Android-Application-Development\HW10\Android Fundamentals 7-1\SimpleAsyncTask\app\src\main\AndroidManifest.xml:27:19-47
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\Matti Lefin\Documents\GitHub\109-2-Android-Application-Development\HW10\Android Fundamentals 7-1\SimpleAsyncTask\app\src\main\AndroidManifest.xml:28:13-32:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\Matti Lefin\Documents\GitHub\109-2-Android-Application-Development\HW10\Android Fundamentals 7-1\SimpleAsyncTask\app\src\main\AndroidManifest.xml:29:17-68
+	android:name
+		ADDED from C:\Users\Matti Lefin\Documents\GitHub\109-2-Android-Application-Development\HW10\Android Fundamentals 7-1\SimpleAsyncTask\app\src\main\AndroidManifest.xml:29:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\Matti Lefin\Documents\GitHub\109-2-Android-Application-Development\HW10\Android Fundamentals 7-1\SimpleAsyncTask\app\src\main\AndroidManifest.xml:31:17-76
+	android:name
+		ADDED from C:\Users\Matti Lefin\Documents\GitHub\109-2-Android-Application-Development\HW10\Android Fundamentals 7-1\SimpleAsyncTask\app\src\main\AndroidManifest.xml:31:27-74
+uses-sdk
+INJECTED from C:\Users\Matti Lefin\Documents\GitHub\109-2-Android-Application-Development\HW10\Android Fundamentals 7-1\SimpleAsyncTask\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\Matti Lefin\Documents\GitHub\109-2-Android-Application-Development\HW10\Android Fundamentals 7-1\SimpleAsyncTask\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\Matti Lefin\Documents\GitHub\109-2-Android-Application-Development\HW10\Android Fundamentals 7-1\SimpleAsyncTask\app\src\main\AndroidManifest.xml
+MERGED from [com.android.support:appcompat-v7:26.1.0] C:\Users\Matti Lefin\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.1.0.aar\9ef2250b34335ab1b04f59e2452f01a2\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:appcompat-v7:26.1.0] C:\Users\Matti Lefin\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.1.0.aar\9ef2250b34335ab1b04f59e2452f01a2\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0] C:\Users\Matti Lefin\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.0.aar\7c043c44e5b9a2b8936ea17fe523bc04\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0] C:\Users\Matti Lefin\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.0.aar\7c043c44e5b9a2b8936ea17fe523bc04\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] C:\Users\Matti Lefin\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.1.0.aar\8d975079ede964e1d53e0e7282b00ad1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] C:\Users\Matti Lefin\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.1.0.aar\8d975079ede964e1d53e0e7282b00ad1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:26.1.0] C:\Users\Matti Lefin\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.1.0.aar\5a818401d2fc816220795d1e8013ff90\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:26.1.0] C:\Users\Matti Lefin\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.1.0.aar\5a818401d2fc816220795d1e8013ff90\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\Matti Lefin\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\9059e252c40b896f14773d3ced84d366\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\Matti Lefin\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\9059e252c40b896f14773d3ced84d366\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\Matti Lefin\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\0e192e6e7161722d79e38f58a59fbc01\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\Matti Lefin\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\0e192e6e7161722d79e38f58a59fbc01\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\Matti Lefin\.gradle\caches\transforms-1\files-1.1\support-fragment-26.1.0.aar\be18e5e9b39d7758a4178c981952eaab\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\Matti Lefin\.gradle\caches\transforms-1\files-1.1\support-fragment-26.1.0.aar\be18e5e9b39d7758a4178c981952eaab\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\Matti Lefin\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.1.0.aar\3edb3a82ab39a0e72a3ad40333b9f9ad\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\Matti Lefin\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.1.0.aar\3edb3a82ab39a0e72a3ad40333b9f9ad\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\Matti Lefin\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.1.0.aar\b145e521be88862fd785b2c5b7adaf92\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\Matti Lefin\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.1.0.aar\b145e521be88862fd785b2c5b7adaf92\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:26.1.0] C:\Users\Matti Lefin\.gradle\caches\transforms-1\files-1.1\support-compat-26.1.0.aar\f43040a378a1aaf1ce5ea58430f0b7a7\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:26.1.0] C:\Users\Matti Lefin\.gradle\caches\transforms-1\files-1.1\support-compat-26.1.0.aar\f43040a378a1aaf1ce5ea58430f0b7a7\AndroidManifest.xml:21:5-23:58
+MERGED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\Matti Lefin\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\7cc8b49b97cf908fe18d0451502f3c53\AndroidManifest.xml:20:5-22:41
+MERGED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\Matti Lefin\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\7cc8b49b97cf908fe18d0451502f3c53\AndroidManifest.xml:20:5-22:41
+INJECTED from C:\Users\Matti Lefin\Documents\GitHub\109-2-Android-Application-Development\HW10\Android Fundamentals 7-1\SimpleAsyncTask\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\Matti Lefin\Documents\GitHub\109-2-Android-Application-Development\HW10\Android Fundamentals 7-1\SimpleAsyncTask\app\src\main\AndroidManifest.xml
+	tools:overrideLibrary
+		ADDED from [com.android.support:appcompat-v7:26.1.0] C:\Users\Matti Lefin\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.1.0.aar\9ef2250b34335ab1b04f59e2452f01a2\AndroidManifest.xml:23:9-75
+	android:targetSdkVersion
+		INJECTED from C:\Users\Matti Lefin\Documents\GitHub\109-2-Android-Application-Development\HW10\Android Fundamentals 7-1\SimpleAsyncTask\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Matti Lefin\Documents\GitHub\109-2-Android-Application-Development\HW10\Android Fundamentals 7-1\SimpleAsyncTask\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Matti Lefin\Documents\GitHub\109-2-Android-Application-Development\HW10\Android Fundamentals 7-1\SimpleAsyncTask\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\Matti Lefin\Documents\GitHub\109-2-Android-Application-Development\HW10\Android Fundamentals 7-1\SimpleAsyncTask\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Matti Lefin\Documents\GitHub\109-2-Android-Application-Development\HW10\Android Fundamentals 7-1\SimpleAsyncTask\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Matti Lefin\Documents\GitHub\109-2-Android-Application-Development\HW10\Android Fundamentals 7-1\SimpleAsyncTask\app\src\main\AndroidManifest.xml
+meta-data#android.support.VERSION
+ADDED from [com.android.support:appcompat-v7:26.1.0] C:\Users\Matti Lefin\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.1.0.aar\9ef2250b34335ab1b04f59e2452f01a2\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] C:\Users\Matti Lefin\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.1.0.aar\8d975079ede964e1d53e0e7282b00ad1\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] C:\Users\Matti Lefin\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.1.0.aar\8d975079ede964e1d53e0e7282b00ad1\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-vector-drawable:26.1.0] C:\Users\Matti Lefin\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.1.0.aar\5a818401d2fc816220795d1e8013ff90\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-vector-drawable:26.1.0] C:\Users\Matti Lefin\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.1.0.aar\5a818401d2fc816220795d1e8013ff90\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\Matti Lefin\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\9059e252c40b896f14773d3ced84d366\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\Matti Lefin\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\9059e252c40b896f14773d3ced84d366\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\Matti Lefin\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\0e192e6e7161722d79e38f58a59fbc01\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\Matti Lefin\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\0e192e6e7161722d79e38f58a59fbc01\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\Matti Lefin\.gradle\caches\transforms-1\files-1.1\support-fragment-26.1.0.aar\be18e5e9b39d7758a4178c981952eaab\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\Matti Lefin\.gradle\caches\transforms-1\files-1.1\support-fragment-26.1.0.aar\be18e5e9b39d7758a4178c981952eaab\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\Matti Lefin\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.1.0.aar\3edb3a82ab39a0e72a3ad40333b9f9ad\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\Matti Lefin\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.1.0.aar\3edb3a82ab39a0e72a3ad40333b9f9ad\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\Matti Lefin\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.1.0.aar\b145e521be88862fd785b2c5b7adaf92\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\Matti Lefin\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.1.0.aar\b145e521be88862fd785b2c5b7adaf92\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-compat:26.1.0] C:\Users\Matti Lefin\.gradle\caches\transforms-1\files-1.1\support-compat-26.1.0.aar\f43040a378a1aaf1ce5ea58430f0b7a7\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-compat:26.1.0] C:\Users\Matti Lefin\.gradle\caches\transforms-1\files-1.1\support-compat-26.1.0.aar\f43040a378a1aaf1ce5ea58430f0b7a7\AndroidManifest.xml:26:9-28:38
+	android:value
+		ADDED from [com.android.support:appcompat-v7:26.1.0] C:\Users\Matti Lefin\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.1.0.aar\9ef2250b34335ab1b04f59e2452f01a2\AndroidManifest.xml:28:13-35
+	android:name
+		ADDED from [com.android.support:appcompat-v7:26.1.0] C:\Users\Matti Lefin\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.1.0.aar\9ef2250b34335ab1b04f59e2452f01a2\AndroidManifest.xml:27:13-51
+meta-data#android.arch.lifecycle.VERSION
+ADDED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\Matti Lefin\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\7cc8b49b97cf908fe18d0451502f3c53\AndroidManifest.xml:25:9-27:47
+	android:value
+		ADDED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\Matti Lefin\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\7cc8b49b97cf908fe18d0451502f3c53\AndroidManifest.xml:27:13-44
+	android:name
+		ADDED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\Matti Lefin\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\7cc8b49b97cf908fe18d0451502f3c53\AndroidManifest.xml:26:13-58
