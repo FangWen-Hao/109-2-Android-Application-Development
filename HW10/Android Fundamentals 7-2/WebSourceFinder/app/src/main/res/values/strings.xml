@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">WebSourceFinder</string>
+    <string name="input_url">Please enter an URL below.</string>
+    <string name="web_source_action">Get HTML source.</string>
+    <string name="sc_tv_placeholder">Web source text placeholder</string>
+    <string name="example">duckduckgo.com</string>
+    <string name="loading">Loading, please wait a moment.</string>
+    <string name="no_input">No user input found.</string>
+    <string name="no_connection">Not connected to the internet.</string>
+    <string name="invalid_url">The written URL is invalid.</string>
+    <string name="no_response">Error 444 no response</string>
+    <string-array name="protocol_array">
+        <item name="http">http://</item>
+        <item name="https">https://</item>
+    </string-array>
+</resources>
