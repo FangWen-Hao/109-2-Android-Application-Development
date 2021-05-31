@@ -1,0 +1,4 @@
+#Tue May 25 17:37:00 CST 2021
+base.0=C\:\\Users\\Matti Lefin\\AndroidStudioProjects\\MyStandUp\\app\\build\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex

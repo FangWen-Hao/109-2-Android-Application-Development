@@ -1,0 +1,7 @@
+com/example/mystandup/BuildConfig.java
+ com.example.mystandup.BuildConfig
+com/example/mystandup/AlarmReceiver.java
+ com.example.mystandup.AlarmReceiver
+com/example/mystandup/MainActivity.java
+ com.example.mystandup.MainActivity
+ com.example.mystandup.MainActivity$1

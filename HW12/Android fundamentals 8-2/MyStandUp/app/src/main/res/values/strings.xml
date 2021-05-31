@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">MyStand Up</string>
+    <string name="off">Alarm off</string>
+    <string name="on">Alarm on</string>
+    <string name="toast_alarm_on">11:11 am Alarm On!</string>
+    <string name="toast_alarm_off">11:11 am Alarm Off.</string>
+    <string name="alert_title">11:11 am Alert</string>
+    <string name="alert_text">Rise and Shine Mr. Freeman, it is 11:11 am.</string>
+</resources>
